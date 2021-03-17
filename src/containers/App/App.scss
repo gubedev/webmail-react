@@ -1,0 +1,21 @@
+.wrapper {
+    &.wrapper--is-pinned-sidebar {
+        .sidebar {
+            width: var(--sidebar-pinned-width);
+        }
+
+        .pages-content {
+            margin-top: 80px;
+            margin-left: var(--sidebar-pinned-width);
+            width: calc(100vw - var(--sidebar-pinned-width) + 24px) !important;
+            height: 100%;
+        }
+    }
+    .pages-content {
+        margin-top: 80px;
+        margin-left: var(--sidebar-width);
+        width: calc(100vw - var(--sidebar-width) + 24px) !important;
+        height: 100%;
+    }
+}
+
