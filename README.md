@@ -2,8 +2,8 @@
 
  Webmail simplified version for skill practice and demostration.
 
-![screenshot](https://github.com/gubedev/webmail-react/blob/master/docs/screen-01.png)
-![screenshot](https://github.com/gubedev/webmail-react/blob/master/docs/screen-01.png)
+![screenshot](https://github.com/gubedev/webmail-react/blob/main/docs/screen-01.png)
+![screenshot](https://github.com/gubedev/webmail-react/blob/main/docs/screen-02.png)
 
 
 ## Begin 🚀
